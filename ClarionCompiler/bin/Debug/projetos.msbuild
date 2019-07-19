@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project DefaultTargets='Circular' xmlns = 'http://schemas.microsoft.com/developer/msbuild/2003' > 
+	<ItemGroup>
+		<FirstPass Include = '
+			S:\TIDSCI\APLICS\FATCVREL\FATCVREL.cwproj;;
+			S:\TIDSCI\APLICS\FATGERAL\FATGERAL.cwproj;;
+			S:\TIDSCI\APLICS\FATPIZTO\FATPIZTO.cwproj;;
+			S:\TIDSCI\APLICS\FATRELAT\FATRELAT.cwproj;;
+			S:\TIDSCI\APLICS\FATRELDA\FATRELDA.cwproj;;
+			S:\TIDSCI\APLICS\FATURAME\FATURAME.cwproj;;
+			S:\TIDSCI\APLICS\PEDACO\PEDACO.cwproj;;
+			S:\TIDSCI\APLICS\PEDDOMEL\PEDDOMEL.cwproj;;
+			S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.cwproj;;
+			S:\TIDSCI\APLICS\PEDVENRC\PEDVENRC.cwproj;;
+			S:\TIDSCI\APLICS\RELASPER\RelAsper.cwproj;;
+			S:\TIDSCI\APLICS\RELSONED\RELSONED.cwproj;;
+		'/>
+	</ItemGroup >
+	<Target Name='Projetos'>
+		<Message Text='Configuration is $(Configuration)' />
+		<Message Text='Compilacao Iniciada'></Message>
+		<MSBuild Projects='@(FirstPass)' Targets='Build' ContinueOnError='True' />
+		<Message Text='Compilacao Concluida'></Message>
+	</Target>
+</Project>

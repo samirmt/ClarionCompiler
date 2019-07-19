@@ -1,0 +1,24 @@
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Release\ClarionCompiler.exe.config
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Release\ClarionCompiler.exe
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Release\ClarionCompiler.pdb
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\obj\Release\EncontrarArquivos.Form1.resources
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\obj\Release\EncontrarArquivos.Form2.resources
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\obj\Release\EncontrarArquivos.Form3.resources
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.Properties.Resources.resources
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.csproj.GenerateResource.cache
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.csproj.CoreCompileInputs.cache
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.exe
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.pdb
+C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.csprojAssemblyReference.cache
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\bin\Release\ClarionCompiler.exe.config
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\bin\Release\ClarionCompiler.exe
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\bin\Release\ClarionCompiler.pdb
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.csprojAssemblyReference.cache
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\obj\Release\EncontrarArquivos.Form1.resources
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\obj\Release\EncontrarArquivos.Form2.resources
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\obj\Release\EncontrarArquivos.Form3.resources
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.Properties.Resources.resources
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.csproj.GenerateResource.cache
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.csproj.CoreCompileInputs.cache
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.exe
+C:\Users\SamirMT\Documents\VSProject\ClarionCompiler\ClarionCompiler\obj\Release\ClarionCompiler.pdb

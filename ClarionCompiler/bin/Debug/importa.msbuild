@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project DefaultTargets='Circular' xmlns = 'http://schemas.microsoft.com/developer/msbuild/2003' > 
+	<ItemGroup>
+		<FirstPass Include = '
+			S:\TIDSCI\APLICS\AGENDA\agenda.cwproj;
+			S:\TIDSCI\APLICS\AGENDACV\agendacv.cwproj;
+			S:\TIDSCI\APLICS\TIDEXT\TIDEXT.cwproj;
+		'/>
+	</ItemGroup >
+	<Target Name='Projetos'>
+		<Message Text='Configuration is $(Configuration)' />
+		<Message Text='Compilacao Iniciada'></Message>
+		<MSBuild Projects='@(FirstPass)' Targets='Build' ContinueOnError='True' />
+		<Message Text='Compilacao Concluida'></Message>
+	</Target>
+</Project>

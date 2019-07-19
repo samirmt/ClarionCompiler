@@ -1,0 +1,24 @@
+Resumo do processo de compilação!
+
+
+Projeto(s) concluído com falha: (9)
+    Done building project "FATRELAT.cwproj" -- FAILED.
+    Done building project "FATRELDA.cwproj" -- FAILED.
+    Done building project "FATURAME.cwproj" -- FAILED.
+    Done building project "PEDACO.cwproj" -- FAILED.
+    Done building project "PEDDOMEL.cwproj" -- FAILED.
+    Done building project "PEDVENDA.cwproj" -- FAILED.
+    Done building project "PEDVENRC.cwproj" -- FAILED.
+    Done building project "RelAsper.cwproj" -- FAILED.
+    Done building project "RELSONED.cwproj" -- FAILED.
+
+---------------------------------------------------------
+
+Projeto(s) concluído com sucesso: (3)
+    Done building project "FATCVREL.cwproj".
+    Done building project "FATGERAL.cwproj".
+    Done building project "FATPIZTO.cwproj".
+
+---------------------------------------------------------
+
+Elapsed time: 00:01:41:07

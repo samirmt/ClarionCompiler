@@ -1,0 +1,269 @@
+Microsoft (R) Build Engine Version 2.0.50727.8745
+[Microsoft .NET Framework, Version 2.0.50727.8784]
+Copyright (C) Microsoft Corporation 2005. All rights reserved.
+
+Build started 09/10/2018 17:19:02.
+__________________________________________________
+Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" (Projetos target(s)):
+
+Target Projetos:
+    Configuration is 'Release'
+    Compilacao Iniciada
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\FATCVREL\FATCVREL.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making FATCVREL.exe
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : BOLETOS.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_1TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_2TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_FAT.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_NFS.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_PROC.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_REL.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_SEL.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : TIDSCI.DLL was not copied to the target directory because it could not be found via redirection lookup
+    Done building target "CoreCompile" in project "FATCVREL.cwproj".
+
+    Done building project "FATCVREL.cwproj".
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\FATGERAL\FATGERAL.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making FATGERAL.exe
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_1TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_2TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_CAD.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_FAT.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_NFS.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_SEL.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : TIDSCI.DLL was not copied to the target directory because it could not be found via redirection lookup
+    Done building target "CoreCompile" in project "FATGERAL.cwproj".
+
+    Done building project "FATGERAL.cwproj".
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\FATPIZTO\FATPIZTO.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making FATPIZTO.exe
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : BOLETOS.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_1TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_2TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_CAD.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_FAT.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_SEL.DLL was not copied to the target directory because it could not be found via redirection lookup
+        C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : TIDSCI.DLL was not copied to the target directory because it could not be found via redirection lookup
+    Done building target "CoreCompile" in project "FATPIZTO.cwproj".
+
+    Done building project "FATPIZTO.cwproj".
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\FATRELAT\FATRELAT.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making FATRELAT001.obj
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+        made FATRELAT001.obj
+        Making FATRELAT004.obj
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+        made FATRELAT004.obj
+        Making FATRELAT054.obj
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+        made FATRELAT054.obj
+        Making FATRELAT072.obj
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+        made FATRELAT072.obj
+        Making FATRELAT077.obj
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+        made FATRELAT077.obj
+        Making FATRELAT088.obj
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+        made FATRELAT088.obj
+        Making FATRELAT107.obj
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+        made FATRELAT107.obj
+        Making FATRELAT115.obj
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+        made FATRELAT115.obj
+        Making FATRELAT118.obj
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+        made FATRELAT118.obj
+        Making FATRELAT.exe
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATRELAT167.obj
+        S:\TIDSCI\APLICS\FATRELAT\FATRELAT.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATRELAT182.obj
+    Done building target "CoreCompile" in project "FATRELAT.cwproj" -- FAILED.
+
+    Done building project "FATRELAT.cwproj" -- FAILED.
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\FATRELDA\FATRELDA.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making FATRELDA.exe
+        S:\TIDSCI\APLICS\FATRELDA\FATRELDA.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATRELDA080.obj
+        S:\TIDSCI\APLICS\FATRELDA\FATRELDA.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATRELDA042.obj
+    Done building target "CoreCompile" in project "FATRELDA.cwproj" -- FAILED.
+
+    Done building project "FATRELDA.cwproj" -- FAILED.
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\FATURAME\FATURAME.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making FATURAME.exe
+        S:\TIDSCI\APLICS\FATURAME\FATURAME.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATURAME025.obj
+        S:\TIDSCI\APLICS\FATURAME\FATURAME.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATURAME025.obj
+        S:\TIDSCI\APLICS\FATURAME\FATURAME.MAP(3,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATURAME018.obj
+    Done building target "CoreCompile" in project "FATURAME.cwproj" -- FAILED.
+
+    Done building project "FATURAME.cwproj" -- FAILED.
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\PEDACO\PEDACO.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making PEDACO.exe
+        S:\TIDSCI\APLICS\PEDACO\PEDACO.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDACO023.obj
+        S:\TIDSCI\APLICS\PEDACO\PEDACO.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDACO003.obj
+    Done building target "CoreCompile" in project "PEDACO.cwproj" -- FAILED.
+
+    Done building project "PEDACO.cwproj" -- FAILED.
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\PEDDOMEL\PEDDOMEL.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making PEDDOMEL.exe
+        S:\TIDSCI\APLICS\PEDDOMEL\PEDDOMEL.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDDOMEL003.obj
+    Done building target "CoreCompile" in project "PEDDOMEL.cwproj" -- FAILED.
+
+    Done building project "PEDDOMEL.cwproj" -- FAILED.
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making PEDVENDA.exe
+        S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA016.obj
+        S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA025.obj
+        S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(3,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA087.obj
+        S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(4,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA016.obj
+        S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(5,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA016.obj
+        S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(6,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA003.obj
+    Done building target "CoreCompile" in project "PEDVENDA.cwproj" -- FAILED.
+
+    Done building project "PEDVENDA.cwproj" -- FAILED.
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\PEDVENRC\PEDVENRC.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making PEDVENRC.exe
+        S:\TIDSCI\APLICS\PEDVENRC\PEDVENRC.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENRC014.obj
+    Done building target "CoreCompile" in project "PEDVENRC.cwproj" -- FAILED.
+
+    Done building project "PEDVENRC.cwproj" -- FAILED.
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\RELASPER\RelAsper.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making RELASPER.exe
+        S:\TIDSCI\APLICS\RELASPER\RELASPER.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RelAsper002.obj
+        S:\TIDSCI\APLICS\RELASPER\RELASPER.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RelAsper002.obj
+        S:\TIDSCI\APLICS\RELASPER\RELASPER.MAP(3,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RelAsper003.obj
+        S:\TIDSCI\APLICS\RELASPER\RELASPER.MAP(4,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RelAsper004.obj
+        S:\TIDSCI\APLICS\RELASPER\RELASPER.MAP(5,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RelAsper005.obj
+    Done building target "CoreCompile" in project "RelAsper.cwproj" -- FAILED.
+
+    Done building project "RelAsper.cwproj" -- FAILED.
+    __________________________________________________
+    Project "C:\Users\samir\Documents\VS Projects\ClarionCompiler\ClarionCompiler\bin\Debug\projetos.msbuild" is building "S:\TIDSCI\APLICS\RELSONED\RELSONED.cwproj" (Build target(s)):
+
+    Target CoreCompile:
+        Making RELSONED.exe
+        S:\TIDSCI\APLICS\RELSONED\RELSONED.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RELSONED004.obj
+        S:\TIDSCI\APLICS\RELSONED\RELSONED.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RELSONED002.obj
+        S:\TIDSCI\APLICS\RELSONED\RELSONED.MAP(3,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RELSONED003.obj
+        S:\TIDSCI\APLICS\RELSONED\RELSONED.MAP(4,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RELSONED004.obj
+        S:\TIDSCI\APLICS\RELSONED\RELSONED.MAP(5,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RELSONED005.obj
+    Done building target "CoreCompile" in project "RELSONED.cwproj" -- FAILED.
+
+    Done building project "RELSONED.cwproj" -- FAILED.
+    Build continuing because "ContinueOnError" on the task "MSBuild" is set to "true".
+    Compilacao Concluida
+
+Build succeeded.
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : BOLETOS.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_1TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_2TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_FAT.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_NFS.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_PROC.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_REL.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_SEL.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : TIDSCI.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_1TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_2TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_CAD.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_FAT.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_NFS.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_SEL.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : TIDSCI.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : BOLETOS.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_1TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_2TAB.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_CAD.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_FAT.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : SCI_SEL.DLL was not copied to the target directory because it could not be found via redirection lookup
+C:\Clarion9.1\bin\SoftVelocity.Build.Clarion.targets : warning : TIDSCI.DLL was not copied to the target directory because it could not be found via redirection lookup
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1591,1): warning : Label duplicated, second used: GLO:COPIAS
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.clw(1637,1): warning : Label duplicated, second used: GLO:EMPRESAFERTEL
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATRELAT167.obj
+S:\TIDSCI\APLICS\FATRELAT\FATRELAT.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATRELAT182.obj
+S:\TIDSCI\APLICS\FATRELDA\FATRELDA.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATRELDA080.obj
+S:\TIDSCI\APLICS\FATRELDA\FATRELDA.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATRELDA042.obj
+S:\TIDSCI\APLICS\FATURAME\FATURAME.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATURAME025.obj
+S:\TIDSCI\APLICS\FATURAME\FATURAME.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATURAME025.obj
+S:\TIDSCI\APLICS\FATURAME\FATURAME.MAP(3,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in FATURAME018.obj
+S:\TIDSCI\APLICS\PEDACO\PEDACO.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDACO023.obj
+S:\TIDSCI\APLICS\PEDACO\PEDACO.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDACO003.obj
+S:\TIDSCI\APLICS\PEDDOMEL\PEDDOMEL.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDDOMEL003.obj
+S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA016.obj
+S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA025.obj
+S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(3,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA087.obj
+S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(4,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA016.obj
+S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(5,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA016.obj
+S:\TIDSCI\APLICS\PEDVENDA\PEDVENDA.MAP(6,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENDA003.obj
+S:\TIDSCI\APLICS\PEDVENRC\PEDVENRC.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in PEDVENRC014.obj
+S:\TIDSCI\APLICS\RELASPER\RELASPER.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RelAsper002.obj
+S:\TIDSCI\APLICS\RELASPER\RELASPER.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RelAsper002.obj
+S:\TIDSCI\APLICS\RELASPER\RELASPER.MAP(3,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RelAsper003.obj
+S:\TIDSCI\APLICS\RELASPER\RELASPER.MAP(4,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RelAsper004.obj
+S:\TIDSCI\APLICS\RELASPER\RELASPER.MAP(5,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RelAsper005.obj
+S:\TIDSCI\APLICS\RELSONED\RELSONED.MAP(1,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RELSONED004.obj
+S:\TIDSCI\APLICS\RELSONED\RELSONED.MAP(2,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RELSONED002.obj
+S:\TIDSCI\APLICS\RELSONED\RELSONED.MAP(3,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RELSONED003.obj
+S:\TIDSCI\APLICS\RELSONED\RELSONED.MAP(4,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RELSONED004.obj
+S:\TIDSCI\APLICS\RELSONED\RELSONED.MAP(5,1): error : Unresolved External DADOSPEDIDOSSONED$DCPS:COMENTARIOSCONDICOES in RELSONED005.obj
+    41 Warning(s)
+    27 Error(s)
+
+Time Elapsed 00:01:40.85
